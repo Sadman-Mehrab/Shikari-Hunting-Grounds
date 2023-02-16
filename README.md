@@ -9,3 +9,8 @@
 ➡️ Complete Issues (Support Ticket) system which allows the employees and hunters to communicate with the admin. Issues have randomly generated IDs and the dashboard updates automatically to notify the admin about new issues.\
 ➡️ Hunt Approval menu that fetches data from the current Inventory, Animal, Hunter and Employee databases to approve hunts and create invoices that can be saved to the local computer.\
 ➡️ Account system that keeps track of transactions and offers a way to manage business funds.\
+
+▶️Demo:
+
+https://user-images.githubusercontent.com/87429921/219334202-0e6c7a35-c47e-43c1-9553-02b477f7886e.mp4
+
